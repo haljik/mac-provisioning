@@ -7,7 +7,6 @@ brew install zsh
 
 brew install caskroom/cask/brew-cask
 
-brew cask install macvim
 brew cask install google-japanese-ime
 brew cask install karabiner
 brew cask install iterm2
