@@ -21,3 +21,4 @@ brew install gradle
 
 brew cask install alfred
 
+docker-machine create --driver virtualbox default
