@@ -30,3 +30,5 @@ git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 # iterm2 sorlarized
 git clone https://github.com/altercation/solarized.git
 
+# dotfiles clone
+git clone https://github.com/haljik/dotfiles.git
