@@ -4,6 +4,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install git
 brew install vim
 brew install zsh
+brew install jq
 
 brew install caskroom/cask/brew-cask
 
