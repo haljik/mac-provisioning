@@ -22,3 +22,11 @@ brew install gradle
 brew cask install alfred
 
 docker-machine create --driver virtualbox default
+
+# vim tempdir
+mkdir ~/vimtemp
+# vim vundle
+git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+# iterm2 sorlarized
+git clone https://github.com/altercation/solarized.git
+
