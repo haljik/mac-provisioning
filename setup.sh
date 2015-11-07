@@ -9,6 +9,7 @@ brew install jq
 brew install caskroom/cask/brew-cask
 
 brew cask install google-japanese-ime
+brew cask install evernote
 brew cask install karabiner
 brew cask install iterm2
 brew cask install google-chrome
