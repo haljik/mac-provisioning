@@ -39,3 +39,7 @@ git clone https://github.com/altercation/solarized.git
 
 # dotfiles clone
 git clone https://github.com/haljik/dotfiles.git
+
+# install sdkman
+curl -s  "https://get.sdkman.io" | bash
+
