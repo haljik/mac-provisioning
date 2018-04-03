@@ -27,6 +27,7 @@ brew cask install alfred
 brew install graphviz
 brew install plantuml
 brew cask install atom
+brew cask install visual-studio-code
 
 # vim tempdir
 mkdir ~/vimtemp
