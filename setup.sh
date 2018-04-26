@@ -17,10 +17,7 @@ brew cask install google-chrome
 brew cask install macvim
 brew cask install slack
 
-brew cask install java
 brew cask install intellij-idea
-brew install maven
-brew install gradle
 
 brew cask install alfred
 
@@ -44,3 +41,9 @@ git clone https://github.com/haljik/dotfiles.git
 # install sdkman
 curl -s  "https://get.sdkman.io" | bash
 
+sdk install java
+sdk install gradle
+sdk install maven
+sdk install groovy
+sdk install scala
+sdk install sbt
