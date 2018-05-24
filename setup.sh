@@ -7,6 +7,7 @@ brew install vim
 brew install zsh
 brew install jq
 brew install node
+brew install awscli
 
 brew install caskroom/cask/brew-cask
 
@@ -17,7 +18,7 @@ brew cask install google-chrome
 brew cask install macvim
 brew cask install slack
 
-brew cask install intellij-idea
+brew cask install jetbrains-toolbox
 
 brew cask install alfred
 
