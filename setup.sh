@@ -9,6 +9,8 @@ brew install jq
 brew install node
 brew install yarn
 brew install awscli
+brew install graphviz
+brew install plantuml
 
 brew install caskroom/cask/brew-cask
 
@@ -16,15 +18,15 @@ brew cask install google-japanese-ime
 brew cask install evernote
 brew cask install iterm2
 brew cask install google-chrome
+brew cask install firefox
 brew cask install macvim
 brew cask install slack
-
+brew cask install eketch
+brew cask install adobe-creative-cloud
 brew cask install jetbrains-toolbox
 
 brew cask install alfred
 
-brew install graphviz
-brew install plantuml
 brew cask install atom
 brew cask install visual-studio-code
 
