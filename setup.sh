@@ -42,7 +42,8 @@ git clone https://github.com/haljik/dotfiles.git
 # install sdkman
 curl -s  "https://get.sdkman.io" | bash
 
-sdk install java
+sdk install java 11.0.1-open
+sdk install java 8.0.191-oracle
 sdk install gradle
 sdk install maven
 sdk install groovy
