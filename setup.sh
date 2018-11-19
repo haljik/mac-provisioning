@@ -7,6 +7,7 @@ brew install vim
 brew install zsh
 brew install jq
 brew install node
+brew install yarn
 brew install awscli
 
 brew install caskroom/cask/brew-cask
