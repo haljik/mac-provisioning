@@ -15,18 +15,15 @@ brew install plantuml
 brew install caskroom/cask/brew-cask
 
 brew cask install google-japanese-ime
-brew cask install evernote
 brew cask install iterm2
 brew cask install google-chrome
 brew cask install firefox
 brew cask install macvim
 brew cask install slack
-brew cask install eketch
-brew cask install adobe-creative-cloud
+brew cask install sketch
 brew cask install jetbrains-toolbox
-
+brew cask install docker
 brew cask install alfred
-
 brew cask install atom
 brew cask install visual-studio-code
 
@@ -45,10 +42,4 @@ git clone https://github.com/haljik/dotfiles.git
 # install sdkman
 curl -s  "https://get.sdkman.io" | bash
 
-sdk install java 11.0.1-open
-sdk install java 8.0.191-oracle
-sdk install gradle
-sdk install maven
-sdk install groovy
-sdk install scala
-sdk install sbt
+./sdk-install.sh
