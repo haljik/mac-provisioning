@@ -20,12 +20,13 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install macvim
 brew cask install slack
-brew cask install sketch
 brew cask install jetbrains-toolbox
 brew cask install docker
 brew cask install alfred
 brew cask install atom
 brew cask install visual-studio-code
+
+brew install --cask rectangle
 
 # vim tempdir
 mkdir ~/vimtemp
